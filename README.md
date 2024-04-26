@@ -22,7 +22,7 @@ Você pode me contatar tambempelo meu email deste github. Me vizitem em minhas r
 <a target="_blank" href="https://www.instagram.com/leti_torcheto/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-*<br>
+<br>
 <br>
 <table>
   <tr>
